@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Photon",
+    "\\Assets\\Photon\\PhotonRealtime",
+    "\\Assets\\Photon\\PhotonRealtime\\Code",
+    "\\Assets\\Photon\\PhotonUnityNetworking",
+    "\\Assets\\Photon\\PhotonUnityNetworking\\Code",
+    "\\Assets\\Scenes",
+    "\\Assets\\scripts"
+  ],
+  "SelectedNode": "\\Assets\\scripts\\MainMenu.cs",
+  "PreviewInSolutionExplorer": false
+}

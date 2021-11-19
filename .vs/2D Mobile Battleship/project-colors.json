@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c09102d1-50a8-375e-ba31-53ce63d3c136": {
+      "ProjectGuid": "c09102d1-50a8-375e-ba31-53ce63d3c136",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "9b09a859-1e7f-8a7d-6c28-6793f6b86381": {
+      "ProjectGuid": "9b09a859-1e7f-8a7d-6c28-6793f6b86381",
+      "DisplayName": "PhotonUnityNetworking",
+      "ColorIndex": 1
+    },
+    "5e213674-9990-c6d7-8f75-435cfa6f36da": {
+      "ProjectGuid": "5e213674-9990-c6d7-8f75-435cfa6f36da",
+      "DisplayName": "PhotonRealtime",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "37c47824-b461-7881-292f-2a9240129688": {
+      "ProjectGuid": "37c47824-b461-7881-292f-2a9240129688",
+      "DisplayName": "Tests",
+      "ColorIndex": 3
+    },
+    "cf813a40-739e-51fb-8be9-93d0ae64a960": {
+      "ProjectGuid": "cf813a40-739e-51fb-8be9-93d0ae64a960",
+      "DisplayName": "createModeTests",
+      "ColorIndex": 4
+    },
+    "6da09215-296a-5365-bdde-7defc2e43a50": {
+      "ProjectGuid": "6da09215-296a-5365-bdde-7defc2e43a50",
+      "DisplayName": "Scripts",
+      "ColorIndex": 5
+    },
+    "7f370b95-95e0-806d-3c0f-9131a24e4f12": {
+      "ProjectGuid": "7f370b95-95e0-806d-3c0f-9131a24e4f12",
+      "DisplayName": "playModeTests",
+      "ColorIndex": 6
+    },
+    "3ccd05f0-24a6-5c2f-3185-ac8764e24caf": {
+      "ProjectGuid": "3ccd05f0-24a6-5c2f-3185-ac8764e24caf",
+      "DisplayName": "editModeTests",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

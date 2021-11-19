@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations/doneVideo.mp4
+    - Assets/Animations/doneVideo.mp4.meta
+    - Assets/Photon/PhotonChat/Code/ChatPeer.cs
+    - Assets/Photon/PhotonChat/Code/changes-chat.txt
+    - Assets/Photon/PhotonLibs/Metro/Photon3Unity3D.dll
+    - Assets/Photon/PhotonLibs/Metro/Photon3Unity3D.pdb
+    - Assets/Photon/PhotonLibs/Photon3Unity3D.dll
+    - Assets/Photon/PhotonLibs/Photon3Unity3D.pdb
+    - Assets/Photon/PhotonLibs/Photon3Unity3D.xml
+    - Assets/Photon/PhotonLibs/changes-library.txt
+    - Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.deps.json
+    - Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll
+    - Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb
+    - Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.xml
+    - Assets/Photon/PhotonNetworking-Documentation.chm
+    - Assets/Photon/PhotonNetworking-Documentation.pdf
+    - Assets/Photon/PhotonRealtime/Code/CustomTypesUnity.cs
+    - Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs
+    - Assets/Photon/PhotonRealtime/Code/changes-realtime.txt
+    - Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs
+    - Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonTransformView.cs
+    - Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Resources/My Robot
+      Kyle -done-.prefab
+    - Assets/Photon/PhotonUnityNetworking/changelog.txt
+    - Assets/Scenes/SplashScene.unity
+    - Assets/Scenes/SplashScene.unity.meta
+    - Assets/backgroundimages/splashScreenImages.meta
+    - Assets/backgroundimages/splashScreenImages/COP4331_Turgut.png
+    - Assets/backgroundimages/splashScreenImages/COP4331_Turgut.png.meta
+    - Assets/backgroundimages/splashScreenImages/battleship.png
+    - Assets/backgroundimages/splashScreenImages/battleship.png.meta
+    - Assets/scripts/CreateAndJoinRooms.cs
+    - Assets/scripts/GameManager.cs
+    - Assets/scripts/splashScript.cs
+    - Assets/scripts/splashScript.cs.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
