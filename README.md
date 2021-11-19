@@ -16,7 +16,7 @@ Thanks for visiting!
   5. Open the project by double clicking on the project in unity hub.  
   **_You made it! Congrats!_**  
 **To run in Editor:**  
-  1. Select the triange Play button at the top of the screen.  
+  1. Select the triangle Play button at the top of the screen.  
 **To Build in Editor**  
   1. Select the Top Left option "File"  
   2. Now press "Build and Run" with your android device connected. If you wish to run the game on windows instead of android, select "Build Settings", "PC, Mac & Linux     Standalone", then "Switch Platform" and "Build & Run".
