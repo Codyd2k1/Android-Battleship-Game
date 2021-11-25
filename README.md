@@ -19,5 +19,8 @@ Thanks for visiting!
   1. Select the triangle Play button at the top of the screen.  
 **To Build in Editor**  
   1. Select the Top Left option "File"  
-  2. Now press "Build and Run" with your android device connected. If you wish to run the game on windows instead of android, select "Build Settings", "PC, Mac & Linux     Standalone", then "Switch Platform" and "Build & Run".
-  
+  2. Now press "Build and Run" with your android device connected. If you wish to run the game on windows instead of android, select "Build Settings", "PC, Mac & Linux     Standalone", then "Switch Platform" and "Build & Run".  
+    
+**References to Source Used for UI Pack**  
+To avoid any potential copyright strikes, here's a link to the free UI element pack we used in this game:  
+https://craftpix.net/freebies/island-game-gui/
