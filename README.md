@@ -24,3 +24,6 @@ Thanks for visiting!
 **References to Source Used for UI Pack**  
 To avoid any potential copyright strikes, here's a link to the free UI element pack we used in this game:  
 https://craftpix.net/freebies/island-game-gui/
+
+![image](https://user-images.githubusercontent.com/45375733/165989420-086227e8-4c3f-4621-84ee-5c613c9ff081.png)
+
